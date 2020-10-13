@@ -1,1 +1,3 @@
 # wfm-favorites
+
+WP plugin
